@@ -9,7 +9,7 @@ public class ListType {
 		// listes avec types spécifiques
 		List<String>maListe=new ArrayList<>();
 		Scanner sc=new Scanner(System.in);
-		int n=1;  // variable pour numéroter les élèves
+		int n=1;  // pour numéroter les élèves
 		char rep;
 		
 		do
